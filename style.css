@@ -1,0 +1,77 @@
+.main_container{
+    margin: 0px auto;
+    max-width: 1400px;
+}
+.container-bar {
+    display: flex;
+    background-color: #fff;
+}
+.nav ul {
+    display: flex;
+    gap: 10px;
+}
+.help-cntr {
+    width: 150px;
+    height: 50px;
+    background-color: #75BF7A;
+    color: #fff;
+    border-radius: 5px;
+}
+.help-centre{
+    width: 130px;
+    height: 30px;
+    padding: 10px 10px;
+    background-color: #75BF7A;
+    text-align: center;
+    border-radius: 5px;
+    padding-bottom: 20px;
+}
+.nav nav ul{
+    gap: 30px;
+    font-size: 20px;
+    margin-left: 600px;
+    text-align: justify;
+}
+.hero-container{
+    display: flex;
+}
+.heading1text h4{
+    width: 50%;
+    font-weight: 800px;
+    font-size: 55px;
+    line-height: 50px;
+}
+.heading1text p{
+    width: 40%;
+    font-weight: 400px;
+    font-size: 20px;
+    text-align: justify;
+}
+}
+.hero-img{
+    width: 50%;
+}
+.hero-btns{
+    display: flex;
+    padding-top: 100px;
+}
+.link-area{
+    display: flex;
+    background-color: #75BF7A;
+    align-items: center;
+    gap: 200px;
+    width: 100%;
+    height: 100px;
+}
+.place-holder input{
+    text-align: center;
+    width: 400px;
+    height: 50px;
+}
+.driv-btn button{
+    width: 200px;
+    height: 50px;
+    background-color: #0000;
+    border-radius: 3px;
+    
+}
